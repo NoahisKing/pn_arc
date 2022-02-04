@@ -38,7 +38,7 @@ inquirer.prompt(Starter).then((answers) => {
 
   const packageJson = `
   {
-    "name": "${Name}",
+    "name": "your-bot",
     "version": "1.0.0",
     "description": "A simple discordjs bot",
     "main": "index.js",
@@ -54,7 +54,7 @@ inquirer.prompt(Starter).then((answers) => {
       "eslint": "^7.21.0",
       "nodemon": "^2.0.15",
       "glob": "^7.2.0",
-      "inquirer": "^8.2.0",
+      "inquirer": "^8.2.0"
       
     }
   }

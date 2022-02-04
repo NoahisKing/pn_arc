@@ -5,14 +5,10 @@
   },
   "name": "pn_arcs",
   "description": "pn_arcs is nothing more then just a ez discord.js bot commands creator. It is creted to make my and my friends life easier 😂",
-  "version": "1.1.9",
+  "version": "1.2.1",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/NoahisKing/pn_arc.git"
   },
   "keywords": [],
   "author": "",
@@ -20,7 +16,6 @@
   "bugs": {
     "url": "https://github.com/NoahisKing/pn_arc/issues"
   },
-  "homepage": "https://github.com/NoahisKing/pn_arc#readme",
   "bin": {
     "pn_arcs": "./src/Bot/index.js",
     "pn_start": "./src/NoahMake/noahmake.js"

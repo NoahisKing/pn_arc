@@ -13,10 +13,10 @@ function Ready() {
         })
     })
 }
-function pn_arc() {
+function pn_arcs() {
     require('../src/Bot/index')
 }
 function pn_start() {
     require('../src/NoahMake/noahmake')
 }
-module.exports = { Ready,Log, pn_arc, pn_start }
+module.exports = { Ready,Log, pn_arcs, pn_start }
