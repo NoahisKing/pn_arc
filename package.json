@@ -3,10 +3,10 @@
     "discord.js": "^13.6.0",
     "inquirer": "^8.2.0"
   },
-  "name": "pn_arc",
-  "description": "------------------",
-  "version": "1.0.0",
-  "main": "index.js",
+  "name": "pn_arcs",
+  "description": "pn_arcs is nothing more then just a ez discord.js bot commands creator. It is creted to make my and my friends life easier 😂",
+  "version": "1.1.9",
+  "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
