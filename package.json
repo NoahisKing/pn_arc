@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "inquirer": "^8.2.0"
+  },
+  "name": "pn_arc",
+  "description": "------------------",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoahisKing/pn_arc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoahisKing/pn_arc/issues"
+  },
+  "homepage": "https://github.com/NoahisKing/pn_arc#readme",
+  "bin": {
+    "pn_arcs": "./src/Bot/index.js",
+    "pn_start": "./src/NoahMake/noahmake.js"
+  }
+}
