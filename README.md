@@ -83,7 +83,7 @@ pn_start()
 !!Reminder to remove `pn_start ` from your `index.js` after you created your command file. You can require it again if you wish to create an another comamnd file
 >
 
-# For People using ``Vs Code`` as your platform 
+# For People using ``<Vs Code>`` as your platform 
 >
 ### No need to use this Package
 `JavaScript` has something call `User Snippets` where you can make it so it loades your command/code. Go to Manage/Settings > User Snippets > and JavaScript.
